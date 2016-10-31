@@ -1,0 +1,6 @@
+framework module Pods_NewLoginGoogle {
+  umbrella header "Pods-NewLoginGoogle-umbrella.h"
+
+  export *
+  module * { export * }
+}
